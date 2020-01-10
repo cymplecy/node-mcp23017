@@ -6,7 +6,7 @@
   "author": "Kai Henzler",
   "repository": {
     "type": "git",
-    "url": "https://github.com/kaihenzler/node-mcp23017"
+    "url": "https://github.com/cymplecy/node-mcp23017"
   },
   "license": "MIT",
   "dependencies": {
